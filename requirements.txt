@@ -1,0 +1,7 @@
+llama-cpp-python
+langchain
+#chromadb
+pinecone-client
+#pyopenssl
+#pgvector
+#psycopg2
